@@ -9,7 +9,7 @@
     "dev": "nodemon app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "pranshuSoni",
   "license": "ISC",
   "description": "",
   "dependencies": {
