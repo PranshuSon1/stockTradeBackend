@@ -15,7 +15,7 @@ Built for stock trading platforms to handle:
 - **Lots are controlled by Trades:**
   - `CREDIT` → Purchasing of stock (creating new lots)
   - `DEBIT` → Selling of stock (consuming from available lots)
-- Live app - https://stocktradebackend.onrender.com/status
+- Live app - https://stocktradebackend.onrender.com/
 ---
 
 ## 🚀 Features
