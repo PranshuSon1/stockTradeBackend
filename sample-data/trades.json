@@ -1,0 +1,24 @@
+[
+  {
+    "stock_name": "Apple",
+    "trade_type": "CREDIT",
+    "quantity": 100,
+    "price": 150,
+    "broker_name": "Broker A"
+  },
+  {
+    "stock_name": "Apple",
+    "trade_type": "CREDIT",
+    "quantity": 200,
+    "price": 160,
+    "broker_name": "Broker B"
+  },
+  {
+    "stock_name": "Apple",
+    "trade_type": "DEBIT",
+    "quantity": 150,
+    "price": 170,
+    "broker_name": "Broker A",
+    "sale_type": "fifo"
+  }
+]
